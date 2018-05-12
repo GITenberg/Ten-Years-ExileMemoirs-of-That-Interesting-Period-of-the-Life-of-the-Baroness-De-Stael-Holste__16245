@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '6568'
     url: http://www.gutenberg.org/2009/agents/6568
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16245#Ten-Years-ExileMemoirs-of-That-Interesting-Period-of-the-Life-of-the-Baroness-De-Stael-Holste_
 gutenberg_issued: '2005-07-08'
 gutenberg_type: Text
 identifiers:
