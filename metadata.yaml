@@ -1,0 +1,49 @@
+_repo: Ten-Years-ExileMemoirs-of-That-Interesting-Period-of-the-Life-of-the-Baroness-De-Stael-Holste__16245
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Staël, Madame de (Anne-Louise-Germaine)
+    aliases:
+    - Staël-Holstein, Anne Louise Germaine Necker Baronne de
+    - Stael, Madame de (Anne-Louise-Germaine)
+    - De Staël, Madame (Anne-Louise-Germaine)
+    birthdate: 1766
+    deathdate: 1817
+    gutenberg_agent_id: '1535'
+    url: http://www.gutenberg.org/2009/agents/1535
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Louise_Germaine_de_Staël
+  editor:
+    agent_name: Staël-Holstein, Auguste Louis, baron de
+    aliases:
+    - Stael-Holstein, Auguste Louis, baron de
+    - De Staël-Holstein, Auguste Louis, baron
+    birthdate: 1790
+    deathdate: 1827
+    gutenberg_agent_id: '6568'
+    url: http://www.gutenberg.org/2009/agents/6568
+description: ''
+gutenberg_issued: '2005-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Intellectuals -- France -- Biography'
+- !lcc 'DC'
+- !lcsh 'Staël, Madame de (Anne-Louise-Germaine), 1766-1817'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+- !lcsh 'Authors, French -- 19th century -- Biography'
+- !lcsh 'France -- Intellectual life -- 19th century'
+- !lcsh 'Women -- France -- Intellectual life'
+title: 'Ten Years'' Exile
+
+  Memoirs of That Interesting Period of the Life of the Baroness De Stael-Holstein,
+  Written by Herself, during the Years 1810, 1811, 1812, and 1813, and Now First Published
+  from the Original Manuscript, by Her Son.'
+url: http://www.gutenberg.org/ebooks/16245
