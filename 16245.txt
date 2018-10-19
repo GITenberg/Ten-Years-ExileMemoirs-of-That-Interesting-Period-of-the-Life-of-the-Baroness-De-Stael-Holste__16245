@@ -21,6 +21,7 @@ Author: Anne Louise Germaine Necker, Baronne (Baroness) de Stael-Holstein
 Editor: Auguste Louis, Baron de Stael-Holstein
 
 Release Date: July 8, 2005  [eBook #16245]
+[Last updated: September 9, 2014]
 
 Language: English
 
@@ -486,8 +487,8 @@ greater part of exiles, habituated from their infancy to the charms
 of a Parisian life.
 
 On the eve of the day when Benjamin Constant was to deliver his
-speech, I had a party, among whom were Lucien Bonaparte, MM. ----
-and general others, whose conversation in different degrees
+speech, I had a party, among whom were Lucien Bonaparte, MM. ------
+and several others, whose conversation in different degrees
 possesses that constant novelty of interest which is produced by the
 strength of ideas and the grace of expression. Every one of these
 persons, with the exception of Lucien, tired of being proscribed by
@@ -915,7 +916,7 @@ when an opposition member goes out, he requests a ministerial member
 to pair off with him, not to alter the strength of either party,
 Bonaparte never struck the jacobins or the royalists without
 dividing his blows equally between them: he thus made friends of
-all those whose vengeance he served, We shall see in the sequel that
+all those whose vengeance he served. We shall see in the sequel that
 he always reckoned on the gratification of this passion to
 consolidate his government: for he knows that it is much more to be
 depended on than affection. After a revolution, the spirit of party
@@ -1153,7 +1154,7 @@ recitation of this verse:
 
 (I have made kings, madam, and have not wished to be one:) promising
 himself to be more than a king, when the opportunity should offer.
-Every day Some fresh blunder of this poor king of Etruria was the
+Every day some fresh blunder of this poor king of Etruria was the
 subject of conversation: he was taken to the Museum, to the Cabinet
 of Natural History, and some of his questions about quadrupeds and
 fishes, which a well educated child of twelve years old would have
@@ -1384,7 +1385,7 @@ she had constantly beaten at sea. What an extraordinary effect of
 the passion for peace! And yet this man, who had so miraculously
 obtained such advantages, had not the patience to make use of them
 for a few years, to put the French navy in a state to meet that of
-England, Scarcely had the treaty of Amiens been signed, when
+England. Scarcely had the treaty of Amiens been signed, when
 Napoleon, by a senatus-consultum, annexed Piedmont to France. During
 the twelve months the peace lasted, everyday was marked by some new
 proclamation, provoking to a breach of the treaty. The motives of
@@ -1599,7 +1600,7 @@ are, doubtless, principles common to all countries, such as those
 which secure the civil and political rights of free people; but of
 what consequence is it whether there should be a limited monarchy,
 as in England, or a federal republic, like the United States, or the
-Thirteen Swiss Cantonss? and was it necessary to reduce Europe to a
+Thirteen Swiss Cantons? and was it necessary to reduce Europe to a
 single idea, like the Roman people to a single head, in order to be
 able to command and to change the whole in one day!
 
@@ -2161,7 +2162,7 @@ manner in which the enterprise was conducted, and desiring first of
 all, to have a guarantee for the constitutional freedom of France.
 Moreau, whose moral character is most excellent, whose military
 talent is unquestionable, and whose understanding is just and
-enlightened, allowed himself in conversation, to go too great
+enlightened, allowed himself in conversation, to go to great
 lengths in blaming the first consul, before he could be at all
 certain of overthrowing him. It is a defect very natural to a
 generous mind to express its opinion, even inconsiderately; but
@@ -2232,14 +2233,14 @@ exhibiting ideas of their own; one might say that the emulation of
 words was all that they required. These hymns of dictation, however,
 with the points of admiration which accompany them, announced that
 France was completely tranquil, and that the small number of the
-emissaries of perfidious Albion were seized. One general, it is.
+emissaries of perfidious Albion were seized. One general, it is
 true, amused himself with reporting, that the English had thrown
 bales of Levant cotton on the coast of Normandy, to give France the
 plague; but these inventions of grave buffoonery were only regarded
 as pieces of flattery addressed to the first consul; and the chiefs
 of the conspiracy, as well as their agents, being in the power of
 the government, there was reason for believing that calm was
-restored in France; but Bonaparte had not vet attained his object.
+restored in France; but Bonaparte had not yet attained his object.
 
 
 
@@ -3429,7 +3430,9 @@ compromising those who come to visit you. I made a point of getting
 the most exact information of all the relations of any lady before I
 invited her; for if she had only a cousin who wanted a place, or had
 one, it was demanding an act of Roman heroism to expect her to come
-and dine with me; At last, in the month of March 1811, a new prefect
+and dine with me.
+
+At last, in the month of March 1811, a new prefect
 arrived from Paris. He was a man admirably well adapted to the
 reigning system: that is to say, having a very general acquaintance
 with facts, coupled with a total absence of principles in matters of
@@ -3877,7 +3880,7 @@ be punished. The reverses of fortune which she had met with made the
 destruction of her natural establishment extremely painful to her.
 Separated from all her friends, she has passed whole months in a
 little provincial town, a prey to the extremes of every feeling of
-insipid and melancholy solitude. %Such was the lot to which I was
+insipid and melancholy solitude. Such was the lot to which I was
 the cause of condemning the most brilliant female of her time; and
 thus regardless did the chief of the French, that people so renowned
 for their gallantry, show himself towards the most beautiful woman
@@ -4106,7 +4109,7 @@ expressions best adapted for circulation among those whose wit is
 confined to repeating the phrases published by the government for
 their use. If the Moniteur accused any one of robbing on the
 highway, no French, German, or Italian journal could admit his
-justification, It is almost impossible to represent to one's self
+justification. It is almost impossible to represent to one's self
 what a man is, at the head of a million of soldiers, and possessed
 of ten millions of revenue, having all the prisons of Europe at his
 disposal, with the kings for his gaolers, and using the press as his
@@ -4192,7 +4195,7 @@ proceeding from free will. Necessity appears to bear a sort of
 divine character, while man's resolution may be connected with his
 pride. It is certain, however, that none of our faculties have been
 given us in vain, and that of deciding for one's self has also its
-use, On another side, all persons of mediocre intellect are
+use. On another side, all persons of mediocre intellect are
 continually astonished that talent has different desires from
 theirs. When it is successful, all the world might do the same; but
 when it is productive of trouble, when it excites to stepping out of
@@ -4537,7 +4540,7 @@ common people comprehend that it is just to punish them for having
 speculated in their own affairs, in the same way as the government
 had done in its own. But this government was the ally of the French
 government, and doubly its ally, as its monarch was the very patient
-father-in-law of a very terrible son-inlaw. What resources therefore
+father-in-law of a very terrible son-in-law. What resources therefore
 could remain to him? The marriage of his daughter had been the means
 of liberating him from two millions of contributions-at most; the
 rest had been required with the kind of justice of which the other
@@ -4703,7 +4706,7 @@ into the country. This method of exercising the police appeared to
 me to unite both the French machiavelism, and German clumsiness. The
 Austrians have persuaded themselves that they have been beat,
 because they had not so much wit as the French, and that the wit of
-the French consists In their police system; in consequence they have
+the French consists in their police system; in consequence they have
 set about making a methodical espionage, organizing that ostensibly
 which should it all events be concealed; and although destined by
 nature to be very honest people, they have made it a kind of duty to
@@ -5694,7 +5697,7 @@ neither formed nor subdued. I was struck with the mild gaiety of
 these female peasants, as I had been, in different degrees, with
 that of the greater part of the common people with whom I had come
 in contact in Russia. I can readily believe that they are terrible
-when their passions are provoked; and as they have no; education,
+when their passions are provoked; and as they have no education,
 they know not how to curb their violence. As another result of this
 ignorance, they have few principles of morality, and theft is very
 frequent in Russia as well as hospitality; they give as they take,
@@ -6011,7 +6014,7 @@ manner, if circumstances required it. The Countess Rostopchin was
 good enough to give me a book which she had written on the triumphs
 of religion, the style and morality of which were very pure. I went
 to visit her at her country-house, in the interior of Moscow. I was
-obliged to cross a lake and a wood in* order to reach it: it was to
+obliged to cross a lake and a wood in order to reach it: it was to
 this house, one of the most agreeable residences in Russia, that
 Count Rostopchin himself set-fire, on the approach of the French
 army. Certainly an action of this kind was likely to excite a
@@ -6134,7 +6137,7 @@ mortification to see the gradual disappearance of its population,
 its commerce, and its wealth: so withering and destructive is the
 breath of arbitrary power, says the best historian of Russia. Even
 at the present day the city of Novogorod presents an aspect of
-singular melancholy; avast inclosure indicates that it was formerly
+singular melancholy; a vast inclosure indicates that it was formerly
 large and populous, and you see nothing in it but scattered houses,
 the inhabitants of which seem to be placed there like figures
 weeping over the tombs. The same spectacle is now probably offered
@@ -6555,7 +6558,7 @@ conceptions of the prince who built it were fantastically gigantic.
 He had towns built in the Crimea, solely that the empress might see
 them on her passage; he ordered the assault of a fortress, to please
 a beautiful woman, the princess Dolgorouki, who had disdained his
-suit, The favor of his Sovereign mistress created him such as he
+suit. The favor of his Sovereign mistress created him such as he
 showed himself; but there is remarkable, notwithstanding, in the
 characters of most of the great men of Russia, such as Menzikoff,
 Suwarow, Peter I. himself, and in yet older times Ivan Vasilievitch,
@@ -6657,19 +6660,20 @@ the true French will triumph if he is repulsed. The English and the
 Russian guests, and particularly M. Narischkin, approved my idea,
 and the name of France, formerly like that of Armida in its effects,
 was once more heard with kindness by the knights of the east, and of
-the sea, who were going to fight against her. Calrnucks with flat
-features are still brought up in the houses of the Russian nobility,
-as if to preserve a specimen of those Tartars who were conquered by
-the Sclavonians. In the palace of Narischkin there were two or three
-of these half-savage Calmucks running about. They are agreeable
-enough in their infancy, but at the age of twenty they lose all the
-charms of youth: obstinate, though slaves, they amuse their masters
-by their resistance, like a squirrel fighting with the wires of his
-cage. It was painful to look at this specimen of the human race
-debased; I thought I saw, in the midst of all the pomp of luxury, an
-image of what man may become, when he derives no dignity either from
-religion or the laws, and this spectacle was calculated to humble
-the pride which the enjoyments of splendor may inspire.
+the sea, who were going to fight against her.
+
+Calrnucks with flat features are still brought up in the houses of
+the Russian nobility, as if to preserve a specimen of those Tartars
+who were conquered by the Sclavonians. In the palace of Narischkin
+there were two or three of these half-savage Calmucks running about.
+They are agreeable enough in their infancy, but at the age of twenty
+they lose all the charms of youth: obstinate, though slaves, they amuse
+their masters by their resistance, like a squirrel fighting with the
+wires of his cage. It was painful to look at this specimen of the
+human race debased; I thought I saw, in the midst of all the pomp of
+luxury, an image of what man may become, when he derives no dignity
+either from religion or the laws, and this spectacle was calculated
+to humble the pride which the enjoyments of splendor may inspire.
 
 Long carriages for promenade, drawn by the most beautiful horses,
 conducted us, after dinner, into the park. It was now the end of
@@ -6722,7 +6726,7 @@ empresses have made those virtues beloved, of which they are
 themselves the models. In this respect, however, as in a great many
 others, the principles of morality are not properly fixed in the
 minds of the Russians. The ascendancy of the master has always been
-so great over them, that from one reign to another* all maxims upon
+so great over them, that from one reign to another, all maxims upon
 all subjects may be changed. The Russians, both men and women,
 generally carry into love their characteristic impetuosity, but
 their disposition to change makes them also easily renounce the
@@ -6804,14 +6808,14 @@ are deposited: these coffins are not shut up in monuments; they are
 exposed in the same way as they were on the day of their funeral,
 and one might fancy one's self quite close to these corpses, from
 which a single board appears to separate us. When Paul I. came to
-the throne, he caused the remains of his father, Peter I. To be
+the throne, he caused the remains of his father, Peter I. to be
 crowned, who not having received that honor during his life, could
 not be placed in the citadel. By the orders of Paul I. the
 ceremonial of interment for both his father and mother was
 recommenced. Both were exposed afresh: four chamberlains once more
 kept guard over the bodies, as if they had only died the day before;
 and the two coffins are now placed by the side of each other,
-compelled to live in pe*&ce under the empire of death. Among the
+compelled to live in peace under the empire of death. Among the
 sovereigns who have stayed the despotic power transmitted to them by
 Peter I. there are several whom a bloody conspiracy has cast from
 the throne. The same courtiers, who have not the strength to tell
@@ -6837,7 +6841,7 @@ contributed to their victories, The charm of a female tempered the
 action of power, and mingled chivalrous gallantry with the
 successes, the homage of which was paid to her. Catherine II. had,
 in the highest degree, the good sense of government; a brilliant
-understanding than hers would less resembled genius, and her lofty
+understanding than hers would have less resembled genius, and her lofty
 reason inspired profound respect in the Russians, who distrust their
 own imagination, and wish to have it directed with wisdom. Close to
 Czarskozelo is the palace of Paul I., a charming residence, as the
@@ -6958,7 +6962,7 @@ was between the times which this tune reminded one of, and the
 present period! Two little chubby girls of ten years old finished
 the ballet by the Russian step: this dance sometimes assumes the
 voluptuous character of love, but executed by children, the
-innocence of that age was mingled with the' national originality. It
+innocence of that age was mingled with the national originality. It
 is impossible to paint: the interest inspired by these amiable
 talents, cultivated by the delicate and generous hand of a female
 and a sovereign.
@@ -7075,7 +7079,7 @@ Abo, where he was to meet General Bernadotte, Prince Royal of
 Sweden. This news left no farther doubt about the determination of
 that prince to take part in the present war, and nothing could be
 more important at that moment for the salvation of Russia, and
-consequently for that of Europe We shall see the influence of it
+consequently for that of Europe. We shall see the influence of it
 developed in the sequel of this narrative. The news of the entrance
 of the French into Smolensko arrived during the conferences of the
 prince of Sweden with the emperor of Russia; and it was there that
